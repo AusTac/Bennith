@@ -5,6 +5,14 @@ Squad vs Squad team based mission built using Extended Maze mission file for the
 - <a href="http://sync.seakecommerce.com/Bennith_AusTac/Mods_for_Squad_vs_Squad_Mission/">Repo Page</a>
 - <a href="http://sync.seakecommerce.com/Bennith_AusTac/Mods_for_Squad_vs_Squad_Mission/default.yml">Launch with Play withSix</a>
 
+# Features
+- Set Spawn Count
+- Set FOG & Weather
+- Set Time of Day
+- Set AI Skill
+- Set AI Wounds
+- Set Revive Timer
+
 # Requirments Mods
 - @ACE
 - @ACEX
@@ -25,7 +33,7 @@ Squad vs Squad team based mission built using Extended Maze mission file for the
 - @JSRS_ACE
 
 # How to Install
-- Pack the files inside the PBO Files into PBO File type using BI Tools or other PBO Packer.
-- PBO must be named AusTacSquadvsSquad_1_0_1.Desert_E.pbo
+- Pack the files inside the [AusTac]SquadvsSquad_1_0_1.Desert_E folder into PBO File type using BI Tools or other PBO Packer.
+- PBO must be named [AusTac]SquadvsSquad_1_0_1.Desert_E.pbo
 
 
