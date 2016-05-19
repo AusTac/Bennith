@@ -1,0 +1,139 @@
+BLUFOR MISSION INIT LOADOUT
+
+////////////////////////////////////////////////////////////////////////////////////
+
+
+//Ammo Boxes (BLUFOR)
+
+removeallWeapons this;clearWeaponCargo this;clearMagazineCargo this;
+
+this addWeaponCargo ["M240",2];
+this addWeaponCargo ["M16A4_GL",2];
+this addWeaponCargo ["M16A2",1];
+this addWeaponCargo ["M9",1];
+this addWeaponCargo ["ACE_SPAS12",1];
+this addMagazineCargo ["100Rnd_762x51_M240",2];
+this addMagazineCargo ["30Rnd_556x45_Stanag",5];
+this addMagazineCargo ["8Rnd_B_Beneli_74Slug",5];
+this addMagazineCargo ["15Rnd_9x19_M9",5];
+this addMagazineCargo ["1Rnd_HE_M203",2];
+this addMagazineCargo ["1Rnd_Smoke_M203",2];
+
+this addWeaponCargo ["ACE_Combat_Pack",5];
+this addWeaponCargo ["ACE_Rucksack_MOLLE_DMARPAT_Medic",2];
+this addWeaponCargo ["ACE_VTAC_RUSH72",2];
+
+this addMagazineCargo ["SmokeShell",2];
+this addMagazineCargo ["SmokeShell",2];
+this addMagazineCargo ["SmokeShell",2];
+this addMagazineCargo ["HandGrenade_West",2];
+this addMagazineCargo ["ACE_Claymore_M",3];
+this addMagazineCargo ["ACE_m84",5];
+this addMagazineCargo ["ACE_m7a3",2];
+this addMagazineCargo ["ACE_m34",2];
+
+this addWeaponCargo ["ACE_Earplugs",25];
+this addWeaponCargo ["ACE_GlassesTactical",25];
+this addWeaponCargo ["ACE_GlassesGasMask_US",25];
+this addWeaponCargo ["ACE_GlassesBalaklava",25];
+
+
+//Radio Boxes (BLUFOR)
+
+removeallWeapons this;clearWeaponCargo this;clearMagazineCargo this;
+this addWeaponCargo ["ACRE_PRC148",25];
+
+
+
+OPFOR MISSION INIT LOADOUT
+
+////////////////////////////////////////////////////////////////////////////////////
+
+
+//Ammo Boxes (OPFOR)
+
+removeallWeapons this;clearWeaponCargo this;clearMagazineCargo this;
+
+this addWeaponCargo ["RPK_74",2];
+this addWeaponCargo ["AK_74_GL",2];
+this addWeaponCargo ["M16A2",1];
+this addWeaponCargo ["Makarov",1];
+this addWeaponCargo ["ACE_SPAS12",1];
+this addMagazineCargo ["75Rnd_545x39_RPK",4];
+this addMagazineCargo ["30Rnd_545x39_AK",5];
+this addMagazineCargo ["8Rnd_B_Beneli_74Slug",5];
+this addMagazineCargo ["8Rnd_9x18_Makarov",5];
+this addMagazineCargo ["1Rnd_HE_GP25",2];
+this addMagazineCargo ["1Rnd_Smoke_M203",2];
+
+this addWeaponCargo ["ACE_Combat_Pack",5];
+this addWeaponCargo ["ACE_Rucksack_MOLLE_DMARPAT_Medic",2];
+this addWeaponCargo ["ACE_VTAC_RUSH72",2];
+
+this addMagazineCargo ["SmokeShell",2];
+this addMagazineCargo ["SmokeShell",2];
+this addMagazineCargo ["SmokeShell",2];
+this addMagazineCargo ["HandGrenade_East",2];
+this addMagazineCargo ["ACE_Claymore_M",3];
+this addMagazineCargo ["ACE_m84",5];
+this addMagazineCargo ["ACE_m7a3",2];
+this addMagazineCargo ["ACE_m34",2];
+
+this addWeaponCargo ["ACE_Earplugs",25];
+this addWeaponCargo ["ACE_GlassesTactical",25];
+this addWeaponCargo ["ACE_GlassesGasMask_US",25];
+this addWeaponCargo ["ACE_GlassesBalaklava",25];
+
+
+//Radio Boxes (OPFOR)
+
+removeallWeapons this;clearWeaponCargo this;clearMagazineCargo this;
+this addWeaponCargo ["ACRE_PRC343",25];
+
+
+GENERAL MISSION INIT LOADOUT
+
+////////////////////////////////////////////////////////////////////////////////////
+
+//Medic Boxes (LOW Ammo)
+
+removeallWeapons this;clearWeaponCargo this;clearMagazineCargo this;
+this addMagazineCargo ["ACE_Bandage",5];
+this addMagazineCargo ["ACE_LargeBandage",2];
+this addMagazineCargo ["ACE_Tourniquet",0];
+this addMagazineCargo ["ACE_Morphine",2];
+this addMagazineCargo ["ACE_Epinephrine",5];
+this addMagazineCargo ["ACE_Splint",0];
+this addMagazineCargo ["ACE_IV",0];
+this addMagazineCargo ["ACE_Plasma",0];
+this addMagazineCargo ["ACE_Medkit",2];
+
+
+//Ammo Boxes (LOW Ammo)
+
+removeallWeapons this;clearWeaponCargo this;clearMagazineCargo this;
+
+this addMagazineCargo ["75Rnd_545x39_RPK",2];
+this addMagazineCargo ["30Rnd_545x39_AK",3];
+this addMagazineCargo ["8Rnd_B_Beneli_74Slug",2];
+this addMagazineCargo ["8Rnd_9x18_Makarov",3];
+this addMagazineCargo ["1Rnd_HE_GP25",2];
+this addMagazineCargo ["1Rnd_Smoke_M203",0];
+
+
+this addMagazineCargo ["SmokeShell",2];
+this addMagazineCargo ["SmokeShell",2];
+this addMagazineCargo ["SmokeShell",2];
+this addMagazineCargo ["HandGrenade_East",2];
+this addMagazineCargo ["ACE_Claymore_M",0];
+this addMagazineCargo ["ACE_m84",5];
+this addMagazineCargo ["ACE_m7a3",1];
+this addMagazineCargo ["ACE_m34",1];
+
+this addWeaponCargo ["ACE_Earplugs",2];
+this addWeaponCargo ["ACE_GlassesTactical",2];
+this addWeaponCargo ["ACE_GlassesGasMask_US",2];
+this addWeaponCargo ["ACE_GlassesBalaklava",2];
+
+
+////////////////////////////////////////////////////////////////////////////////////
