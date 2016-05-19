@@ -1,0 +1,38 @@
+onloadintro=" ";
+onloadintrotime=false;
+onloadmission="Teamwork is Key!";
+onloadmissiontime=false;
+
+respawn=4;
+respawndelay=10;
+
+minScore=1000;
+avgScore=5000;
+maxScore=10000;
+
+class Header
+{
+  gameType = Coop;
+  minPlayers = 1;
+  maxPlayers = 10;
+};
+
+// Day and Weather script by Moerderhoschi
+class Params
+{
+  class DayTime
+  {
+    title = "Time Of Day";
+    values[] = {1, -8, -6, 0, 8, 13, 2};
+    texts[] = {"Random", "Early Morning", "Morning", "Noon", "Sundown", "Night with Full Moon", "Dark Night"};
+    default = 1;
+  };
+  class Weather
+  {
+    title = "Weather:";
+    values[] = {2, 0, 3, 0.5, 0.75, 1};
+    texts[] = {"Random", "Clear", "Partly Cloudy", "Cloudy", "Overcast", "Storm"};
+    default = 2;
+  };
+};
+

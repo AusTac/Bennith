@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <Project name="AusTacAusTacSquadvsSquad">
+    <Package name="Languages">
+      <Container name="STR_DN">
+        <!-- Basic stuff -->
+        <Key ID="STR_m_complete">
+          <English>M I S S I O N   C O M P L E T E</English>
+        </Key>
+        <Key ID="STR_m_failed">
+          <English>M I S S I O N   F A I L E D</English>
+        </Key>
+      </Container>
+  </Package>
+</Project>
