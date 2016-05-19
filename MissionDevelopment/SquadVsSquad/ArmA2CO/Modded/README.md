@@ -1,4 +1,4 @@
-# Modded Version of Squad vs Squad 1.0.1
+# Modded Version of Squad vs Squad 0.0.2
 
 Squad vs Squad team based mission built using Extended Maze mission file for the [AusTac] community. Makes use of the Desert_E map. Your squad must reach the opposing teams base to win the game. See ingame hints for details and instructions. Watch for hostile Indepentants along the way as well as IEDs.
 
